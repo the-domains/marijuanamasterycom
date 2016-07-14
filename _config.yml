@@ -1,16 +1,16 @@
-layout_spectrum: 0.7411652998998761
-typography_spectrum: 0.3750864416360855
+layout_spectrum: 0.46420718962326646
+typography_spectrum: 0.7150662934873253
 color:
-  brandStrength: 0.8294957615435123
-  lightness: 0.6822657643351704
-  saturation: 0.21330706612206995
-  rhythmicContrast: 0.033802141668275
+  brandStrength: 0.6121460851281881
+  lightness: 0.023963049985468388
+  saturation: 0.10047986381687224
+  rhythmicContrast: 0.645246725063771
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Marijuanamastery.com
 author:
   url: www.marijuanamastery.com
