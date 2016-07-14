@@ -1,11 +1,11 @@
 ---
 description: Join us on our journey of Marijuana Mastery.
-dateModified: '2016-07-14T03:46:03.920Z'
-datePublished: '2016-07-14T03:46:04.328Z'
+dateModified: '2016-07-14T03:46:04.854Z'
+datePublished: '2016-07-14T03:46:05.086Z'
 title: Introducing Marijuana Mastery
 author: []
 sourcePath: _posts/2016-06-04-big-test-hello.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
