@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-05T02:47:14.015Z'
+datePublished: '2016-08-05T02:52:08.783Z'
 sourcePath: >-
   _posts/2016-08-04-this-book-will-open-the-doors-for-you-to-experience-cannabis.md
 author: []
 via: {}
-dateModified: '2016-08-05T02:47:13.577Z'
+dateModified: '2016-08-05T02:52:08.247Z'
 title: >-
   This book will open the doors for you to experience cannabis in a new and
   highly effective way.
