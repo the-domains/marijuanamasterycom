@@ -4,21 +4,21 @@
         <description><![CDATA[Marijuanamastery.com]]></description>
         <link>http://marijuanamastery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 03:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 03:42:39 GMT</lastBuildDate>
         <atom:link href="http://marijuanamastery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348eecb9-bfce-4dbd-a12d-3f3be43c8042.jpg">]]></description>
+            <link>http://marijuanamastery.com/fda77829-99f5-441f-878e-b6fed930cb69/index.html</link>
+            <guid isPermaLink="false">fda77829-99f5-441f-878e-b6fed930cb69</guid>
+            <pubDate>Tue, 23 Aug 2016 03:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing Marijuana Mastery]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd83d3e4-8f29-42ce-9494-1341562d7a4a.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc1e7e9-af10-4492-9790-cee2765b1db2.jpg</link>
             <guid isPermaLink="false">69484791-2e00-4a13-887f-f5cc0b275c80</guid>
             <pubDate>Tue, 23 Aug 2016 03:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348eecb9-bfce-4dbd-a12d-3f3be43c8042.jpg">]]></description>
-            <link>http://marijuanamastery.com/fda77829-99f5-441f-878e-b6fed930cb69/index.html</link>
-            <guid isPermaLink="false">fda77829-99f5-441f-878e-b6fed930cb69</guid>
-            <pubDate>Tue, 23 Aug 2016 03:35:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
